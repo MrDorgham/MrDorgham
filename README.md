@@ -16,10 +16,7 @@ I've hands-on experience in:
 - Monitoring the provisioned infrastructure and sending Slack messages and emails when the infrastructure fails using Prometheus.
 
 
-<p>
-<h2 align="lefr">About me</h2>
 
-</p>
 
 <h2 align="left">Connect with me </h2>
 <div align="left">
