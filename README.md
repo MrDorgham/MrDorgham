@@ -68,7 +68,7 @@ I've hands-on experience in:
 <h3 align="center">Web servers </h3>
 <div align="center">  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="75" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" /></a>  
+<a href="https://httpd.apache.org" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/4e/06/c2/4e06c2957def0eeed5be4b0a4bbe871b.png" alt="Apache" height="75" /></a>  
 </div>
 </td><td valign="top" width="33%">
 
