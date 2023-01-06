@@ -10,10 +10,10 @@ Experienced working in dynamic environments.
 Interested in automating software development life cycles. 
 I believe that the only way businesses can compete in their market is through their ability to deliver applications and services at a high velocity. 
 I've hands-on experience in:
-- Developing and designing CI/CD Pipelines using Jenkins and CircleCi 
+- Developing and designing CI/CD Pipelines using Jenkins and CircleCi.
 - Automating infrastructure provisioning using Terraform and Cloudformation.
-- Configuring infrastructure using Ansible 
-- Monitoring the provisioned infrastructure and sending Slack messages and emails when the infrastructure fails using Prometheus
+- Configuring infrastructure using Ansible.
+- Monitoring the provisioned infrastructure and sending Slack messages and emails when the infrastructure fails using Prometheus.
 
 
 <p>
