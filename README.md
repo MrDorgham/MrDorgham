@@ -1,3 +1,11 @@
+
+
+add Right Gif Image
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
+add banner (use your links) :
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Mohamed Dorgham</h1>
 <h3 align="center">A passionate DevOps Engineer Looking forward to improve and scale</h3>
 
