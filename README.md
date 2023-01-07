@@ -71,7 +71,7 @@ I've hands-on experience in:
 
 <h3 align="center">DevOps Tools</h3>
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://pmcaonline.org/wp-content/uploads/2020/07/aws.png" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -81,6 +81,8 @@ I've hands-on experience in:
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
 <a href="https://circleci.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" height="50" /></a> 
 <a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="https://prometheus.io/assets/prometheus_logo_grey.svg" alt="Prometheus" height="50" /></a> 
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="Ansible" height="50" /></a>   
+
 </div>
 </td></tr></table>  
 <br/>  
