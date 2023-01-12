@@ -31,7 +31,7 @@ I've hands-on experience in:
   
  
  
-<h2 align="left">Github Stats </h2>
+<!-- <h2 align="left">Github Stats </h2>
 
 <div align="left"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31mwcb6n6r4ngmx5o6nidjgcqmvu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31mwcb6n6r4ngmx5o6nidjgcqmvu&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" /> 
 <p>
@@ -46,7 +46,7 @@ I've hands-on experience in:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrdorgham" alt="mrdorgham" /></a> </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=MrDorgham&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=MrDorgham&&style=flat-square" align="center" /> -->
 
 </div> 
 
