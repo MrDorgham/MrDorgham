@@ -11,10 +11,14 @@ develop my experience in a mutually beneficial relationship, believing that busi
 through their ability to deliver applications and services at a high velocity.
 
 I have hands-on experience in:
+- Scripting using Bash and Python
 - Developing and designing CI/CD Pipelines using Jenkins and CircleCi.
 - Automating infrastructure provisioning using Terraform and Cloudformation.
 - Configuring infrastructure using Ansible.
 - Monitoring the provisioned infrastructure and sending Slack messages and emails when the infrastructure fails using Prometheus.
+- Containers orchestration using Kubernetes and helm to create manifests
+- Cloud services providers (AWS, GCP) security, storage, networking
+- Troubleshooting large-scale, highly performant distributed systems
 
 
 
