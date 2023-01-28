@@ -9,7 +9,8 @@ A quick learner and eager to learn DevOps Engineer, interested in automation and
 and migrate from on premise to cloud; seeking for challenging position in a leading company to upgrade and
 develop my experience in a mutually beneficial relationship, believing that businesses can only compete
 through their ability to deliver applications and services at a high velocity.
-I've hands-on experience in:
+
+I have hands-on experience in:
 - Developing and designing CI/CD Pipelines using Jenkins and CircleCi.
 - Automating infrastructure provisioning using Terraform and Cloudformation.
 - Configuring infrastructure using Ansible.
