@@ -5,10 +5,10 @@
 <h2 align="lefr">About me</h2>
 
 #####
-Quick learner and eager to learn DevOps Engineer. 
-Experienced working in dynamic environments. 
-Interested in automating software development life cycles. 
-I believe that the only way businesses can compete in their market is through their ability to deliver applications and services at a high velocity. 
+A quick learner and eager to learn DevOps Engineer, interested in automation and software life cycles
+and migrate from on premise to cloud; seeking for challenging position in a leading company to upgrade and
+develop my experience in a mutually beneficial relationship, believing that businesses can only compete
+through their ability to deliver applications and services at a high velocity.
 I've hands-on experience in:
 - Developing and designing CI/CD Pipelines using Jenkins and CircleCi.
 - Automating infrastructure provisioning using Terraform and Cloudformation.
