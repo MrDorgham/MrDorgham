@@ -28,21 +28,14 @@ I have hands-on experience in:
 <a href="https://linkedin.com/in/mohameddorgham" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
   
-</a>
-<a href="https://www.facebook.com/dorghamyi" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>
-  
+
  
  
 <h2 align="left">Github Stats </h2>
 
 <!-- <div align="left"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31mwcb6n6r4ngmx5o6nidjgcqmvu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31mwcb6n6r4ngmx5o6nidjgcqmvu&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" />  -->
 
- <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdorgham&show_icons=true&locale=en&layout=compact" alt="mrdorgham" />
-</p>
+
 
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdorgham&show_icons=true&locale=en" alt="mrdorgham" />
