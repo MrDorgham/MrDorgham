@@ -5,15 +5,12 @@
 <h2 align="lefr">About me</h2>
 
 #####
-A quick learner and eager to learn DevOps Engineer, interested in automation and software life cycles
-and migrate from on premise to cloud; seeking for challenging position in a leading company to upgrade and
-develop my experience in a mutually beneficial relationship, believing that businesses can only compete
-through their ability to deliver applications and services at a high velocity.
+Cloud DevOps Engineer with experience in managing cloud infrastructure, implementing DevOps practices, and automating deployment processes. Proficient in various tools and technologies for seamless operational solutions.
 
 I have hands-on experience in:
 - Scripting using Bash and Python
-- Developing and designing CI/CD Pipelines using Jenkins and CircleCi.
-- Automating infrastructure provisioning using Terraform and Cloudformation.
+- Developing and designing CI/CD Pipelines using Jenkins.
+- Automating infrastructure provisioning using Terraform.
 - Configuring infrastructure using Ansible.
 - Monitoring the provisioned infrastructure and sending Slack messages and emails when the infrastructure fails using Prometheus.
 - Containers orchestration using Kubernetes and helm to create manifests
